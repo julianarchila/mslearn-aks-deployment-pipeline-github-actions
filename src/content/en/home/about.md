@@ -5,10 +5,11 @@ weight: 8
 ---
 
 We're **Contoso** the awesome drone company!
+Updated
 
 ### Why choose us?
 
-* Better quality
-* Top-notch professionals
-* We understand you
-* We're artists
+- Better quality
+- Top-notch professionals
+- We understand you
+- We're artists
